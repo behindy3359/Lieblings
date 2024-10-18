@@ -48,7 +48,7 @@ Express의 미들웨어는 요청-응답 과정에서 요청 객체(req), 응답
 
 회원 가입시 환영 메일을 보내기 위해 npm의 nodemailer 패키지를 활용했습니다.
 
-[[새싹x코딩온] 웹 개발자 부트캠프 과정 | Lieblings - 4) 환영 메일 보내보기!](https://velog.io/@behindy0311/240922)
+[[새싹x코딩온] 웹 개발자 부트캠프 과정 | Lieblings - 4) 환영 메일 보내보기!](https://velog.io/@behindy0311/240922) - velog 로 이동합니다.
 
 ### 3. 누락된 클라이언트 페이지 작성
 
