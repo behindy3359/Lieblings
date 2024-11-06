@@ -3,11 +3,6 @@
 > SeSAC 영등포 6기 2차 프로젝트(240821~240912)
 ![리블링스 인트로](https://github.com/user-attachments/assets/08192c04-b321-4e66-8ddf-5d8261b5aaeb)
 
-
-🔗 배포 서버 : http://43.201.85.98:8080/
-
-📃 [리블링스 발표자료 PDF](https://github.com/user-attachments/files/17101470/default.pdf)
-
 <br/>
 
 ## 🔹 목차
